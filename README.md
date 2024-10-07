@@ -81,8 +81,8 @@ The TAs for this course are:
 - **[Parham Baradarn](https://www.linkedin.com/in/parhambaradarn/)**  
   GitHub: [github.com/parhambaradarn](https://github.com/bnparham)
 
-- **[Paria Salesbili](https://www.linkedin.com/in/pariasailisi/)**  
-  GitHub: [github.com/Paria Salesbili](https://github.com/pariasalsabili)
+- **[Paria Salsabili](https://www.linkedin.com/in/pariasailisi/)**  
+  GitHub: [github.com/Paria Salsabili](https://github.com/pariasalsabili)
 
 - **[Asal Mahmoodi](https://www.linkedin.com/in/asalmahmoodi/)**  
   GitHub: [github.com/asalmahmoodi](https://github.com/AssalMahmodi)
