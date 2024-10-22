@@ -87,8 +87,8 @@ The TAs for this course are:
 - **[Asal Mahmoodi](https://www.linkedin.com/in/asalmahmoodi/)**  
   GitHub: [github.com/asalmahmoodi](https://github.com/AssalMahmodi)
 
-- **[Parsa Sadeghi](https://www.linkedin.com/in/parsasedighi/)**  
-  GitHub: [github.com/parsasadighi](https://github.com/parsasedighi)
+- **[Parsa Sadeghi](https://www.linkedin.com/in/iamnotParsaaa/)**  
+  GitHub: [github.com/parsasadighi](https://github.com/iamnotParsaaa)
 
 
 
