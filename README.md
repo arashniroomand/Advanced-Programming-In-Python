@@ -78,8 +78,8 @@ The TAs for this course are:
 - **[Arash Niroumand](https://www.linkedin.com/in/arashniroumand/)**  
   GitHub: [github.com/arashniroomand](https://github.com/arashniroomand)
 
-- **[Parham Baradarn](https://www.linkedin.com/in/parhambaradarn/)**  
-  GitHub: [github.com/parhambaradarn](https://github.com/bnparham)
+- **[Parham Baradarn Noveiry](https://www.linkedin.com/in/parhambaradarn/)**  
+  GitHub: [github.com/Parham Baradarn Noveiry](https://github.com/bnparham)
 
 - **[Paria Salsabili](https://www.linkedin.com/in/pariasailisi/)**  
   GitHub: [github.com/Paria Salsabili](https://github.com/pariasalsabili)
