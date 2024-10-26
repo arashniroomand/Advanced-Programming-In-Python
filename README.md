@@ -90,6 +90,10 @@ The TAs for this course are:
 - **[Parsa Sadeghi](https://www.linkedin.com/in/iamnotParsaaa/)**  
   GitHub: [github.com/parsasadighi](https://github.com/iamnotParsaaa)
 
+- **[Kiarash Dadpour](https://www.linkedin.com/in/kiarash-dadpour-734283300/)**  
+  GitHub: [github.com/KiarashDadpour](https://github.com/KiarashDadpour)
+
+
 
 
 Feel free to reach out to the TAs for any questions regarding the course material or additional guidance.
