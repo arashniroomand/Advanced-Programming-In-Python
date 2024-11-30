@@ -29,3 +29,7 @@ class Circle:
 
     def distance(self, other):
         return self.c.distance(other.c)
+
+    def draw(self):
+        # Homework
+        pass
